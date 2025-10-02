@@ -1,19 +1,17 @@
-ARCADE BLACKJACK - A GAME DEVELOPER WITH NEST.JS AND NEXT.JS USING TYPESCRIPT 👨🏻‍💻
-Summary of Rules:
-No dealer — it’s just you versus the deck.
-start → creates a new round (shuffled deck, 1 initial card).
-hit → draw 1 card; if total > 21 ⇒ bust (0 points).
-stand → stop, compute points, and add to the balance.
-Scoring:
-> 21: 0
-= 21: 100
-1–20: floor((total / 21) * 100)
-Deck: 1 standard 52-card deck; J/Q/K = 10, Ace = 1 or 11 (whichever doesn’t bust).
 
-Getting Started:
-Just clone the project and start the frontend and backend separately:
-in the frontend folder’s terminal, run ->  npm run dev 
-in the backend folder’s terminal, run -> npm run start
+🚨 Se este for o primeiro link que abriu, acesse primeiro este -> https://github.com/gallvones/classicImports inicialize e configure corretamente e volte pra cá 🚨
 
-Explainer Video
-📹 https://link.com
+Conheça o Arcade Blackjack! Um game desenvovlido para faturar Kassino Money(K$)🤑. Integrado com o e-commerce, Classic Imports, é possivel comprar produtos variados com K$!
+
+Instruções: Para rodar o projeto localmente, crie uma pasta vazia na area de trabalho, abra o terminal e digite o comando: 
+git clone https://github.com/gallvones/blackjack.git Após isso, abra o projeto no seu editor e adicione na pasta backend o arquivo .env e adione a seguinte variavel 👉🏼 MONGO_URI=mongodb+srv://blackjackdb:Fluminense2023@blackjack.vzh0pgu.mongodb.net/blackjackdb?retryWrites=true&w=majority&appName=BlackJack
+
+*Dados do arquivo env - copie sem espaço e cole exatamente assim em um novo arquivo .env dentro da pasta backend. * 
+Agora abra um terminal para a pasta backend e para a pasta frontend. No terminal backend, digite -> npm start No terminal frontend, digite -> npm run dev
+O frontend do projeto vai abrir na porta 3001 -> http://localhost:3001
+O backend do projete vai abrir na porta 3000 
+
+Agora sim, comece acessando o e-commerce ( http://localhost:5173 )! Repare que no header tem um botão que te direciona para o blackjack, farm Kassino Money (K$) e veja seu saldo atualizar em ambos os projeto!
+
+
+
