@@ -14,5 +14,7 @@ O backend do projete vai abrir na porta 3000
 
 Agora sim, comece acessando o e-commerce ( http://localhost:5173 )! Repare que no header tem um botão que te direciona para o blackjack, farm Kassino Money (K$) e veja seu saldo atualizar em ambos os projeto!
 
+Vídeo explicativo ->https://www.loom.com/share/a1bb4d2447a84b2ead4faa5b659b5915?sid=5ffa1748-7524-4bdc-9cc2-2548bb0c0761
+
 
 
