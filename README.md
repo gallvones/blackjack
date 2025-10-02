@@ -1,6 +1,7 @@
 
 🚨 Se este for o primeiro link que abriu, acesse primeiro este -> https://github.com/gallvones/classicImports inicialize e configure corretamente e volte pra cá 🚨
 
+⚠️ Se você foi direcionado pra cá através das instruções do e-commerce, prossiga ⚠️
 Conheça o Arcade Blackjack! Um game desenvovlido para faturar Kassino Money(K$)🤑. Integrado com o e-commerce, Classic Imports, é possivel comprar produtos variados com K$!
 
 Instruções: Para rodar o projeto localmente, crie uma pasta vazia na area de trabalho, abra o terminal e digite o comando: 
